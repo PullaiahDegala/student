@@ -54,6 +54,7 @@
 		</dependency>
 	</dependencies>
 <!--hello hiiiii XML  -->
+<!-- 	It is pom xml -->
 	<build>
 		<plugins>
 			<plugin>
