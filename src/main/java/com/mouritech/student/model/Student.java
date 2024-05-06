@@ -11,6 +11,8 @@ import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Size;
 
+
+//------It is a student project-------------------//
 @Entity
 @Table(name ="studentsdetails")
 public class Student {
